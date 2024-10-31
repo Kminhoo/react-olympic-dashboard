@@ -1,0 +1,12 @@
+.medal-form {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+
+.btn-group {
+  flex-shrink: 0;
+  display: flex;
+  gap: 1rem;
+}

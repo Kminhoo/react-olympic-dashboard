@@ -1,0 +1,18 @@
+.table {
+  width: 100%;
+
+  th {
+    background-color: #003580;
+    color: #fff;
+    font-weight: 700;
+    padding: 12px;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+  }
+
+  td {
+    padding: 12px;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+  }
+}
