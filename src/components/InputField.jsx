@@ -1,8 +1,8 @@
-import "./InputFiled.css";
+import "./InputField.css";
 
 const InputField = ({ type, value, onChange, name, label, placeholder }) => {
   return (
-    <div className="input-filed">
+    <div className="input-field">
       <label className="label" htmlFor={name}>
         {label}
       </label>
